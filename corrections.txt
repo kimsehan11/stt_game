@@ -1,0 +1,5 @@
+
+{
+    "Wrong answer": "RNN이 장기 의존성에 더 강합니다.",
+    "Correct answer": "LSTM이 게이트와 셀 상태로 장기 의존성을 RNN보다 더 잘 다룹니다."
+}
